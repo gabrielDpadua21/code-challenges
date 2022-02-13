@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./src/algoExpert",
+        "./src/algoExpert/basic"
+    ]
+}
