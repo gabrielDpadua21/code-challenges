@@ -4,7 +4,7 @@ import unittest
 
 from basic_1002 import CircleArea
 
-class TestSumNumbers(unittest.TestCase):
+class TestCircleArea(unittest.TestCase):
 
     def setUp(self):
         self.test = CircleArea()
