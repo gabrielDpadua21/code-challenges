@@ -4,7 +4,7 @@ import unittest
 
 from basic_1004 import SimpleProduct
 
-class TestSimpleSum(unittest.TestCase):
+class TestSimpleProduct(unittest.TestCase):
 
     def setUp(self):
         self.test = SimpleProduct()
